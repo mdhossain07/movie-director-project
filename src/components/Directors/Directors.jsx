@@ -16,7 +16,7 @@ const Directors = ({handleDetails}) => {
 
     return (
         <div className="space-y-3 w-3/4">
-            <h2 className="text-4xl font-medium">Movie Directors </h2>
+            <h2 className="text-4xl font-medium">Avengers Movie Project </h2>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
                  {
                     directors.map(director => 
